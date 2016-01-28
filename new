@@ -9,4 +9,9 @@ I am learning git.
 没改成功
 YES 成功了
 我增加了一个分支dev
+》
 我故意在master分支上制造冲突，实际工作中一定会发生。。。
+《
+我再增加一个分支featurel
+fix
+手动解决冲突
